@@ -17,7 +17,7 @@ The project explores how PittaRosso implemented an **AI-powered pricing and prom
 | File Name                               | Description                                                |
 |----------------------------------------|------------------------------------------------------------|
 | `PittaRosso_CaseStudy.pdf`             | Harvard Business School case study reference               |
-| `PittaRosso_CaseStudy_Notes_Cleaned.pdf` | Cleaned notes with strategic answers and analysis         |
+| `PittaRosso_CaseStudy_Notes.pdf`       | Notes with strategic answers and analysis         |
 | `PittaRosso_Data_ExcelSheets.xlsx`     | Excel simulation of AI tool and objective function modeling|
 | `Presentation_PittaRosso_MGT251.pdf`   | Final slide deck summarizing recommendations and insights  |
 | `README.md`                            | Project overview and documentation                         |
