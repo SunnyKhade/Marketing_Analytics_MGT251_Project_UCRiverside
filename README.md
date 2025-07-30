@@ -12,11 +12,15 @@ The project explores how PittaRosso implemented an **AI-powered pricing and prom
 - Estimate the financial outcomes under various assumptions.
 - Recommend change management and governance solutions.
 
-## 📂 Contents
-- `PittaRosso_CaseStudy.pdf` — Harvard Business School case reference.
-- `MGT 251 MARKETING Analytics_slide deck_PittaRosso.pptx` — Presentation slides summarizing strategy, risks, and recommendations.
-- `522710-XLS-ENG.xlsx` — Simplified AI tool simulation and scenario analysis.
-- `PittaRossoCaseStudy_notes.pdf` — Detailed strategic analysis and responses to the case questions.
+### 📂 Contents
+
+| File Name                               | Description                                                |
+|----------------------------------------|------------------------------------------------------------|
+| `PittaRosso_CaseStudy.pdf`             | Harvard Business School case study reference               |
+| `PittaRosso_CaseStudy_Notes_Cleaned.pdf` | Cleaned notes with strategic answers and analysis         |
+| `PittaRosso_Data_ExcelSheets.xlsx`     | Excel simulation of AI tool and objective function modeling|
+| `Presentation_PittaRosso_MGT251.pdf`   | Final slide deck summarizing recommendations and insights  |
+| `README.md`                            | Project overview and documentation                         |
 
 ## ⚙️ Methodology
 - **Objective Function**:  
